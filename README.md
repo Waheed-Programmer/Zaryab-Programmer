@@ -2,7 +2,13 @@
 
 
 
-🔭 I’m currently working on Blockchain Android (Kotlin) and Jetpack Compose.
+- 🔭 I’m currently working on Blockchain Android (Kotlin) and Jetpack Compose.
+
+- 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
+
+- 🤝 I’m looking for help with **BLOCKCHAIN DEVELOPER**
+
+- 👨‍💻 check my website : https://mzaryabrafique.live/
 
 ## Here My Github Stats
 
