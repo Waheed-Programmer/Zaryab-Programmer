@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-Programmer&layout=compact" alt="Zaryab-Programmer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zaryab-Programmer&show_icons=true" alt="Zaryab-Programmer" /></p>
+
+# If you love my work andwant to support me then sponser me .
+https://github.com/madilraza/muetfolio/blob/master/.github/FUNDING.yml
