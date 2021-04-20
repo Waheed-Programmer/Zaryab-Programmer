@@ -1,8 +1,8 @@
 ### Hi there 👋
+## I am Muhammad Zaryab Rafique
 
 
-
-- 🔭 I’m currently working on Blockchain Android (Kotlin) and Jetpack Compose.
+- 🔭 I’m currently working on **Blockchain, Android (Kotlin) and Jetpack Compose**
 
 - 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION**
 
@@ -10,8 +10,14 @@
 
 - 👨‍💻 check my website : https://mzaryabrafique.live/
 
-<a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a>
 
+### Connect me at here
+
+<span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a>
+&nbsp;
+<a href="https://web.facebook.com/Zaryab.Programmer/" ><img src="images/Facebook-logo.png" width="30" height="30" />
+
+<span>
 
 ## Here My Github Stats
 
