@@ -16,7 +16,8 @@
 <span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a>
 &nbsp;
 <a href="https://web.facebook.com/Zaryab.Programmer/" ><img src="images/Facebook-logo.png" width="30" height="30" />
-
+&nbsp;
+<a href="https://www.instagram.com/zaryab.programmer/" ><img src="images/insta.png" width="30" height="30" />
 <span>
 
 ## Here My Github Stats
